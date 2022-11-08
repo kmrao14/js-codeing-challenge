@@ -15,4 +15,14 @@ functions in brief:
 2. Hold: If the current player clicks on HOLD, then the Current Score will be added to the Total Score. When the active player clicks the Hold button then the total score is evaluated. If the Total Score >= 100 then the current player wins else the players are switched.
 
 3. Reset: All the scores are set to 0 and Player 1 is set as the starting player (current player).
+
+
+Tasks:
+---------------------
+1. Add script and CSS files to HTML
+2. Generate random roll dice and display dice roll
+3. Set active player,(CSS class name: player--active) Add dice roll to current score and display score
+4. Hold: Add current score to total score and Switch player
+5. Win screen: Add "player--winner" to winner player section
+6. Reset/New game.
 */
